@@ -19,21 +19,25 @@ The Ecommerce Chatbot is built using Python and Flask framework. It leverages na
 To set up the Ecommerce Chatbot locally, follow these steps:
 
 1. Clone the repository to your local machine:
-   ```bash
+```
    git clone https://github.com/your-username/ecommerce-chatbot.git
 ```
+
 2. Navigate to the project directory:
-   ```
+```
    cd ecommerce-chatbot
-   ```
-4. Install the required Python packages using pip:
-   ```
-   python app.py
-   ```
-5. Set up environment variables:
-   - Create a .env file in the project directory.
-   - Define the necessary environment variables such as database connection strings, API keys, etc.
-6. Run the Flask application:
-   ```
-   python app.py
-   ```
+```
+
+3. Install the required Python packages using pip:
+```
+python app.py
+```
+
+4. Set up environment variables:
+- Create a .env file in the project directory.
+- Define the necessary environment variables such as database connection strings, API keys, etc.
+  
+5. Run the Flask application:
+```
+python app.py
+```
