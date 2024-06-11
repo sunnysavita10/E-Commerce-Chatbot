@@ -30,7 +30,7 @@ To set up the Ecommerce Chatbot locally, follow these steps:
 
 3. Install the required Python packages using pip:
 ```
-python app.py
+pip install -r requirements.txt
 ```
 
 4. Set up environment variables:
